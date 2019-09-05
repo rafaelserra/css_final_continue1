@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://media.giphy.com/media/d2jhRkVSJy1ffcPu/giphy.gif);
+    font-family: 'American Typewriter', Courier, monospace;
+    cursor: cell;
+}
+
+h1{
+    background-color: honeydew;
+}
+
+p#para1{
+    color: #FFD700;  
+}
+
+h4#para2{
+    color: #FFD700;
+}
+
+h3#para0{
+    color: red;
+}
+
+table#para4{
+    color: #FFD700;
+}
+
+ul#para5{
+    color: #FFD700;
+}
